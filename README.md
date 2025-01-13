@@ -7,4 +7,6 @@
 - https://github.com/user-attachments/assets/3e0c6b80-1fa0-4944-99ae-bf1042efa1c4
 
 ## Enlaces de aprendizaje
-- www.aka.ms/MyMicrosoftLearnProfile
+- Perfil en Microsoft Learn: www.aka.ms/MyMicrosoftLearnProfile
+- Rutas de aprendizaje del curso: https://learn.microsoft.com/es-es/credentials/certifications/azure-data-engineer/?practice-assessment-type=certification
+
