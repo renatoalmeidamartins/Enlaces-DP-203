@@ -12,3 +12,6 @@
 - Acceso al entorno de laboratorio: https://esi.learnondemand.net/
 - Instrucciones de lab en GitHub: https://github.com/MicrosoftLearning/dp-203-azure-data-engineer/tree/master
 
+  ## Enalces dia 1
+  - Datos JSON com T-SQL, en el MS-SQL Server: https://learn.microsoft.com/en-us/sql/relational-databases/json/json-data-sql-server?view=sql-server-ver16
+
