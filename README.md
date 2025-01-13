@@ -21,5 +21,6 @@
   - Diferencias de Synapse para DAta factory: https://learn.microsoft.com/es-es/azure/synapse-analytics/data-integration/concepts-data-factory-differences
   - Hadoop: https://es.wikipedia.org/wiki/Apache_Hadoop
   - Spark: https://es.wikipedia.org/wiki/Apache_Spark
+  - Openrowset: https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-openrowset
     
 
