@@ -22,5 +22,8 @@
   - Hadoop: https://es.wikipedia.org/wiki/Apache_Hadoop
   - Spark: https://es.wikipedia.org/wiki/Apache_Spark
   - Openrowset: https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-openrowset
-    
-
+  - Creacion de objetos externos (para que no sea necesario usar el OPENROWSET):
+    - Creacion de credencial: https://learn.microsoft.com/en-us/sql/t-sql/statements/create-database-scoped-credential-transact-sql
+    - Creacion de fuente de dados externa: https://learn.microsoft.com/en-us/sql/t-sql/statements/create-external-data-source-transact-sql
+    - Creacion de formato de archivos externo: https://learn.microsoft.com/en-us/sql/t-sql/statements/create-external-file-format-transact-sql
+    - Creacion de tabla externa: https://learn.microsoft.com/en-us/sql/t-sql/statements/create-external-table-transact-sql
