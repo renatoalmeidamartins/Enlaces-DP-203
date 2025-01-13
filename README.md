@@ -18,4 +18,8 @@
   - Modelados multidimensionales: https://es.wikipedia.org/wiki/Modelado_dimensional
   - Hitchikers guide to the data lake: https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/
   - Architecture mdeallion: https://learn.microsoft.com/es-es/azure/databricks/lakehouse/medallion
+  - Diferencias de Synapse para DAta factory: https://learn.microsoft.com/es-es/azure/synapse-analytics/data-integration/concepts-data-factory-differences
+  - Hadoop: https://es.wikipedia.org/wiki/Apache_Hadoop
+  - Spark: https://es.wikipedia.org/wiki/Apache_Spark
+    
 
