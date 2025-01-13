@@ -10,4 +10,5 @@
 - Perfil en Microsoft Learn: www.aka.ms/MyMicrosoftLearnProfile
 - Rutas de aprendizaje del curso: https://learn.microsoft.com/es-es/credentials/certifications/azure-data-engineer/?practice-assessment-type=certification
 - Acceso al entorno de laboratorio: https://esi.learnondemand.net/
+- Instrucciones de lab en GitHub: https://github.com/MicrosoftLearning/dp-203-azure-data-engineer/tree/master
 
