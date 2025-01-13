@@ -14,4 +14,7 @@
 
   ## Enalces dia 1
   - Datos JSON com T-SQL, en el MS-SQL Server: https://learn.microsoft.com/en-us/sql/relational-databases/json/json-data-sql-server?view=sql-server-ver16
+  - Normalizacion de datos: https://es.wikipedia.org/wiki/Normalizaci%C3%B3n_de_bases_de_datos
+  - Modelados multidimensionales: https://es.wikipedia.org/wiki/Modelado_dimensional
+  - 
 
