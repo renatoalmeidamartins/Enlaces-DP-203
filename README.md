@@ -3,6 +3,7 @@
 ## Laboratorios opcionales
 - Lake database (módulo 3, lab 4 en esi.learnondemand.net)
 - Synapse Spark (módulo 3, lab 4 en esi.learnondemand.net)
+- Data warehouse (módulo 4, lab 8 en esi.learnondemand.net)
 ## Credenciales y perfil de LinkedIn del instructor
 - https://www.linkedin.com/in/renatodealmeidamartins/
 - https://learn.microsoft.com/en-us/users/renatomartins-7213/transcript/dqlr3cjep5q3r9m
