@@ -28,3 +28,6 @@
     - Creacion de formato de archivos externo: https://learn.microsoft.com/en-us/sql/t-sql/statements/create-external-file-format-transact-sql
     - Creacion de tabla externa: https://learn.microsoft.com/en-us/sql/t-sql/statements/create-external-table-transact-sql
   - CETAS (create external table as select): https://learn.microsoft.com/es-es/sql/t-sql/statements/create-external-table-as-select-transact-sql?view=sql-server-ver16&tabs=powershell
+ 
+  ## Enlaces día 2
+  - Operaciones disponibles en un DataFrame Spark: https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/dataframe.html
