@@ -35,3 +35,4 @@
   ## Enlaces día 2
   - Operaciones disponibles en un DataFrame Spark: https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/dataframe.html
   - Comparacion de tablas externas y administradas (aunque trate de FAbric, las mismas ideas se aplican en Synapse): https://rajanieshkaushikk.com/2024/07/15/fabric-managed-and-external-tables/
+  - Tipos de SCD (Slowly Changing Dimensions): https://en.wikipedia.org/wiki/Slowly_changing_dimension
