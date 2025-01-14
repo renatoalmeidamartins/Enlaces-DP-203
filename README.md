@@ -37,3 +37,4 @@
   - Comparacion de tablas externas y administradas (aunque trate de FAbric, las mismas ideas se aplican en Synapse): https://rajanieshkaushikk.com/2024/07/15/fabric-managed-and-external-tables/
   - Tipos de SCD (Slowly Changing Dimensions): https://en.wikipedia.org/wiki/Slowly_changing_dimension
   - Instruccion MERGE: https://learn.microsoft.com/es-es/sql/t-sql/statements/merge-transact-sql?view=sql-server-ver16
+  - Instruccion COPY (para carga de datos desde un lago de datos hacia Synapse): https://learn.microsoft.com/es-es/sql/t-sql/statements/copy-into-transact-sql?view=azure-sqldw-latest
