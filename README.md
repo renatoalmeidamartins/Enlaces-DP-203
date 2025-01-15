@@ -39,3 +39,9 @@
   - Tipos de SCD (Slowly Changing Dimensions): https://en.wikipedia.org/wiki/Slowly_changing_dimension
   - Instruccion MERGE: https://learn.microsoft.com/es-es/sql/t-sql/statements/merge-transact-sql?view=sql-server-ver16
   - Instruccion COPY (para carga de datos desde un lago de datos hacia Synapse): https://learn.microsoft.com/es-es/sql/t-sql/statements/copy-into-transact-sql?view=azure-sqldw-latest
+ 
+  ## Enlaces día 3
+  - Synapse link
+    - Dataverso: https://learn.microsoft.com/en-us/power-apps/maker/data-platform/azure-synapse-link-synapse
+    - Cosmos DB: https://learn.microsoft.com/es-es/azure/cosmos-db/synapse-link
+    - SQL: https://learn.microsoft.com/en-us/azure/synapse-analytics/synapse-link/sql-synapse-link-overview
