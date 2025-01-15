@@ -49,3 +49,5 @@
   -  Conceptos (ojo a los tipos de cuenta) en CosmosDB): https://learn.microsoft.com/en-us/azure/cosmos-db/resource-model#elements-in-an-azure-cosmos-db-account
   - Change data capture en SQL (tecnologia similar al de Synapse Link para SQL): https://learn.microsoft.com/en-us/sql/relational-databases/track-changes/about-change-data-capture-sql-server?view=sql-server-ver16
   - Ventanas en Synapse Analytics: https://learn.microsoft.com/es-es/azure/stream-analytics/stream-analytics-window-functions
+  - DQS (servicio de calidad de datos): https://learn.microsoft.com/es-es/sql/data-quality-services/data-quality-services?view=sql-server-ver16
+  - MDS (serivicos "master"  de datos): https://learn.microsoft.com/es-es/sql/master-data-services/master-data-services-overview-mds?view=sql-server-ver16
