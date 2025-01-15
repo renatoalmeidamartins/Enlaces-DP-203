@@ -45,3 +45,4 @@
     - Dataverso: https://learn.microsoft.com/en-us/power-apps/maker/data-platform/azure-synapse-link-synapse
     - Cosmos DB: https://learn.microsoft.com/es-es/azure/cosmos-db/synapse-link
     - SQL: https://learn.microsoft.com/en-us/azure/synapse-analytics/synapse-link/sql-synapse-link-overview
+  - OLAP "mezclado" (Hibrido, Multidimensional, o Relacional): https://learn.microsoft.com/es-es/analysis-services/multidimensional-models-olap-logical-cube-objects/partitions-partition-storage-modes-and-processing?view=asallproducts-allversions
