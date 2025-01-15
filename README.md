@@ -48,3 +48,4 @@
   - OLAP "mezclado" (Hibrido, Multidimensional, o Relacional): https://learn.microsoft.com/es-es/analysis-services/multidimensional-models-olap-logical-cube-objects/partitions-partition-storage-modes-and-processing?view=asallproducts-allversions
   -  Conceptos (ojo a los tipos de cuenta) en CosmosDB): https://learn.microsoft.com/en-us/azure/cosmos-db/resource-model#elements-in-an-azure-cosmos-db-account
   - Change data capture en SQL (tecnologia similar al de Synapse Link para SQL): https://learn.microsoft.com/en-us/sql/relational-databases/track-changes/about-change-data-capture-sql-server?view=sql-server-ver16
+  - Ventanas en Synapse Analytics: https://learn.microsoft.com/es-es/azure/stream-analytics/stream-analytics-window-functions
