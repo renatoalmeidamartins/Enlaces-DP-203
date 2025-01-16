@@ -57,4 +57,4 @@
     - Fabric para utilizadores de Synapse: https://blog.fabric.microsoft.com/en-US/blog/microsoft-fabric-explained-for-existing-synapse-users//
     - Principales conceptos de Fabric: https://learn.microsoft.com/en-us/fabric/enterprise/licenses
     - Ingenieria de datos en Fabric vs Synapse Spark: https://learn.microsoft.com/es-es/fabric/data-engineering/comparison-between-fabric-and-azure-synapse-spark
-    - 
+    - Pasos de un examen beta hasta el examen real: https://learn.microsoft.com/es-es/credentials/certifications/posts/the-path-from-beta-exam-to-live-exam
