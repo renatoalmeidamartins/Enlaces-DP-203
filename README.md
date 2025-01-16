@@ -52,7 +52,7 @@
   - DQS (servicio de calidad de datos): https://learn.microsoft.com/es-es/sql/data-quality-services/data-quality-services?view=sql-server-ver16
   - MDS (serivicos "master"  de datos): https://learn.microsoft.com/es-es/sql/master-data-services/master-data-services-overview-mds?view=sql-server-ver16
  
-    ## Enlaces Día 3
+    ## Enlaces Día 4
     - Fabric vs Synapse: https://atlan.com/microsoft-fabric-vs-azure-synapse/
     - Fabric para utilizadores de Synapse: https://blog.fabric.microsoft.com/en-US/blog/microsoft-fabric-explained-for-existing-synapse-users//
     - Principales conceptos de Fabric: https://learn.microsoft.com/en-us/fabric/enterprise/licenses
